@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Should I Do That?</string>
+    <string name="button_text">Make My Decision</string>
+    <string name="question">Should I Do That?</string>
+    <string name="button_clear">Clear</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="question_hint">Should I...</string>
+    <string name="question_label">Question</string>
+</resources>
